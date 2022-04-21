@@ -1,1 +1,0 @@
-# M2_EmbeddedSystem_2022
