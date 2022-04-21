@@ -6,7 +6,6 @@
 #include <util/delay.h>
 /**
  * @file LED_Signal.h
- * @author Sudhan
  * @brief 
  * @version 0.1
  * @date 2022-03-05
